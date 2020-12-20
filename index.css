@@ -1,0 +1,28 @@
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    text-align: center;
+  }
+ 
+  
+  h2{ 
+    text-align: center;
+    color:darkgoldenrod;
+    background-color: rgb(61, 134, 61);
+    font-size:100;
+    padding: 20px 20px 20px 20px;
+    font-family: verdana; 
+}
+html {
+    background-color: #4872699c;
+  }
+ h3{
+    text-align:left;
+    width:200px;
+    background-color:blueviolet;
+    margin:auto;
+    padding:inherit;
+
+  }
