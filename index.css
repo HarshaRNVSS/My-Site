@@ -28,5 +28,6 @@ html {
   }
   .img
   {
-    size: 40%;
+    height: 100px;
+    width: auto;
   }
